@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".CreateProfile">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create Profile"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:textAlignment="center"
+        />
+    <androidx.cardview.widget.CardView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:cardPreventCornerOverlap="false"
+        app:cardCornerRadius="75dp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/id_cp"
+            android:background="@drawable/ic_baseline_person_outline_24"
+            android:clickable="true"
+
+            android:scaleType="centerCrop"/>
+    </androidx.cardview.widget.CardView>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_name_cp"
+        app:errorEnabled="true">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_baseline_account_circle_24"
+            android:drawablePadding="4dp"
+            android:hint="Name"
+            android:layout_marginHorizontal="32dp"
+            android:textColor="@android:color/black" />
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_email_cp"
+        app:errorEnabled="true">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="32dp"
+            android:layout_marginVertical="4dp"
+            android:drawableStart="@drawable/ic_baseline_email_24"
+            android:drawablePadding="4dp"
+            android:hint="Email"
+            android:textColor="@android:color/black" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_Occupation_cp"
+        app:errorEnabled="true">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Occupation"
+            android:layout_marginVertical="4dp"
+            android:layout_marginHorizontal="32dp"
+            android:drawablePadding="4dp"
+            android:drawableStart="@drawable/ic_baseline_work_24"
+            android:textColor="@android:color/black"/>
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_Salary_cp"
+        app:errorEnabled="true">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Salary"
+            android:layout_marginVertical="4dp"
+            android:layout_marginHorizontal="32dp"
+            android:drawablePadding="4dp"
+            android:drawableStart="@drawable/ic_baseline_work_24"
+            android:textColor="@android:color/black"/>
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_Contact_number_cp"
+        app:errorEnabled="true">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Phone Number"
+            android:layout_marginVertical="4dp"
+            android:layout_marginHorizontal="32dp"
+            android:drawablePadding="4dp"
+            android:drawableStart="@drawable/ic_baseline_phone"
+            android:textColor="@android:color/black"/>
+    </com.google.android.material.textfield.TextInputLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Date Of Birth"
+            android:id="@+id/DOB"
+            android:textSize="16dp"
+            android:layout_marginVertical="20dp"
+            android:layout_marginHorizontal="32dp"
+            android:onClick="onClick"
+            android:drawablePadding="4dp"
+            android:drawableStart="@drawable/ic_baseline_calendar_24"
+            android:textColor="@android:color/black"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save Profile"
+        android:paddingHorizontal="12dp"
+        android:textColor="@android:color/white"
+        android:background="@android:color/holo_red_light"
+        android:layout_marginTop="20dp"
+        android:id="@+id/button_cp"/>
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ProgressBar_cp"
+        android:visibility="invisible"
+        android:layout_marginTop="10dp"/>
+
+
+
+</LinearLayout>

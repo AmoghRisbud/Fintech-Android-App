@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ways_to_grow.GovtRules">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginBottom="10dp"
+                android:textColor="@color/cardview_dark_background"
+                android:text="Government Rules\n and Regulations"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMaxTextSize="35sp"
+                android:gravity="center_horizontal"/>
+            <TableRow
+                android:id="@+id/hr"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#444"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:gravity="center_horizontal"
+                android:textColor="@color/cardview_dark_background"
+                android:text="Investment Advisers Act \nof 1940"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMaxTextSize="35sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                android:layout_margin="10dp"
+                android:text="@string/govt_act"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMaxTextSize="25sp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="media_url_mp3">gs://test2-3b507.appspot.com/learning/Financial planning.mp4</string>
+    <string name="mutualfunds_info">
+A Mutual Fund is a trust that collects money from investors who share a common financial goal, and invest the proceeds in different asset classes, as defined by the investment objective. Simply put, mutual fund is a financial intermediary, set up with an objective to professionally manage the money pooled from the investors at large. By pooling money together in a mutual fund, investors can enjoy economies of scale and can purchase stocks or bonds at a much lower trading costs compared to direct investing in capital markets. The other advantages are diversification, stock and bond selection by experts, low costs, convenience and flexibility. An investor in a mutual fund scheme receives units which are in accordance with the quantum of money invested by him. These units represent an investor’s proportionate ownership into the assets of a scheme and his liability in case of loss to the fund is limited to the extent of amount invested by him. The pooling of resources is the biggest strength for mutual funds. The relatively lower amounts required for investing into a mutual fund scheme enables small retail investors to enjoy the benefits of professional money management and lends access to different markets, which they otherwise may not be able to access. The investment experts who invest the pooled money on behalf of investors of the scheme are known as ‘Fund Managers’. These fund managers take the investment decisions pertaining to the selection of securities and the proportion of investments to be made into them. However, these decisions are governed by certain guidelines which are decided by the investment objective(s), investment pattern of the scheme and are subject to regulatory restrictions. It is this investment objective and investment pattern which also guides the investor in choosing the right fund for his investment purpose. Today, there are a variety of schemes offered by mutual funds in India, which cater to different categories of investors to suit different financial objectives e.g. some schemes may provide capital protection for the risk-averse investor, whereas some other schemes may provide for capital appreciation by investing in mid or small cap segment of the equity market for the more aggressive investor. The diversity in investment objectives and mandates has helped to classify and sub-classify the schemes accordingly. The broad classification can be done at the asset class levels. Thus we have Equity Funds, Bond Funds, Liquid Funds, Balanced Funds, Gilt Funds etc. These can be further sub-classified into different categories like mid cap funds, small cap funds, sector funds, index funds etc.</string>
+    <string name="about_us">Financial Literacy ! Probably the most unaware form of literacy the India is facing.Today,Number of youngsters and even adults are unaware about the importance of investment and the ways to get started with.\n\n
+
+Becoming financial independent is the dream of every single person living , but the fact is due to lack of financial knowledge , people don’t know the right ways to invest their money at right places and make them grow.\n\n
+
+Our team spotted this thing and had an idea to help out solving this problem.We developed one platform here which will be providing right and efficient ways to invest their money by making them financially literate.We have tried to introduce ways like the share market too which are mostly though as risky by common people and is usually ignored.\n\n
+
+We will be doing more and more and adding up more things with your support !</string>
+    <string name="why_invest">Investments are important because in today’s world, just earning money is not enough. You work hard for the money you earn. But that may not be adequate for you to lead a comfortable lifestyle or fulfill your dreams and goals. To do that, you need to make your money work hard for you as well. This is why you invest. Money lying idle in your bank account is an opportunity lost. You should invest that money smartly to get good returns out of it.</string>
+    <string name="typesof_invest">The Indian investor has a number of investment options to choose from. Some are traditional investments that have been used across generations, while some are relatively newer options that have become popular in recent years. Here are some popular investment options available in India.</string>
+    <string name="stocks">Stocks, also known as company shares, are probably the most famous investment vehicle in India. When you buy a company’s stock, you buy ownership in that company that allows you to participate in the company’s growth. Stocks are offered by companies that are publicly listed on stock exchanges and can be bought by any investor. Stocks are ideal long-term investments. But investing in stocks should not be equated to trading in the stock market, which is a speculative activity.</string>
+    <string name="mutual">Mutual funds have been around for the past few decades but they have gained popularity only in the last few years. These are investment vehicles that pool the money of many investors and invest it in a way to earn optimum returns. Different types of mutual funds invest in different securities. Equity mutual funds invest primarily in stocks and equity-related instruments, while debt mutual funds invest in bonds and papers. There are also hybrid mutual funds that invest in equity as well as debt. Mutual funds are flexible investment vehicles, in which you can begin and stop investing as per your convenience. Apart from tax-saving mutual funds, you can redeem investments from mutual funds any time as well.</string>
+    <string name="fixed_deposits">Mutual funds have been around for the past few decades but they have gained popularity only in the last few years. These are investment vehicles that pool the money of many investors and invest it in a way to earn optimum returns. Different types of mutual funds invest in different securities. Equity mutual funds invest primarily in stocks and equity-related instruments, while debt mutual funds invest in bonds and papers. There are also hybrid mutual funds that invest in equity as well as debt. Mutual funds are flexible investment vehicles, in which you can begin and stop investing as per your convenience. Apart from tax-saving mutual funds, you can redeem investments from mutual funds any time as well.</string>
+    <string name="recurring_deposits">A recurring deposit (RD) is another fixed tenure investment that allows investors to put in a specific amount every month for a pre-defined period of time. RDs are offered by banks and post offices. The interest rates are defined by the institution offering it. An RD allows the investor to invest a small amount every month to build a corpus over a defined time period. RDs offer capital protection as well as guaranteed returns.</string>
+    <string name="ppf">The Public Provident Fund (PPF) is a long-term tax-saving investment vehicle that comes with a lock-in period of 15 years. Investments made in PPF can be used to earn a tax break. The PPF rate is decided by the Government of India every quarter. The corpus withdrawn at the end of the 15-year period is completely tax-free in the hands of the investor. PPF also allows loans and partial withdrawals after certain conditions have been met.</string>
+    <string name="epf">The Employee Provident Fund (EPF) is another retirement-oriented investment vehicle that earns a tax break under Section 80C. EPF deductions are typically a part of an earner’s monthly salary and the same amount is matched by the employer as well. Upon maturity, the withdrawn corpus from EPF is also entirely tax-free. EPF rates are also decided by the Government of India every quarter.</string>
+    <string name="national_pension">The National Pension System (NPS) is a relatively new tax-saving investment option. Investors in the NPS stay locked-in till retirement and can earn higher returns than PPF or EPF since the NPS offers plan options that invest in equities as well. The maturity corpus from the NPS is not entirely tax-free and a part of it has to be used to purchase an annuity that will give the investor a regular pension.</string>
+    <string name="age">Typically, younger investors have fewer responsibilities and a longer time horizon. When you have a long working life in front of you, you can invest in vehicles with a long-term view and also keep increasing your investment amount with an increase in your income. This is why equity-oriented investments like equity mutual funds would be a better option for young investors, as compared to something like fixed deposits. But on the other hand, older investors can opt for safer avenues like FDs.</string>
+    <string name="goal">Investment goals can be either short-term or long-term. For a short-term goal, you should opt for a safer investment and use the return-generating potential of equities for long-term goals. Goals can also be negotiable and non-negotiable. For non-negotiable goals like children’s education or down payment for a house, guaranteed-return investments would be a good choice. But if the goal is negotiable, which means that it can be pushed back by a few months, then investing in equity mutual funds or stocks can be beneficial. Plus, if these investments do really well, then you can even meet the goal before time.</string>
+    <string name="profile">Another thing to think about when choosing an investment option is your own profile. Factors like how much you are earning and how many financial dependants you have are also critical. A young investor with a lot of time on hand may not be able to take equity-related risks if he also has the responsibility to take care of his family. Similarly, someone older with no dependents and a steady source of income can choose to invest in equities to earn higher returns.\n\n
+
+This is why it is said that when it comes to investments, one size doesn’t fit all. Investments not only have to be chosen carefully but also planned properly to get the most out of them.</string>
+    <string name="plan_to_invest">The first step in planning your investments is to figure out the right investment that fits your profile and needs. Here are a few things to keep in mind when planning your investments:\n\n
+
+-Choose investments carefully after doing adequate research\n
+-Don’t fall for quick-buck schemes that promise high returns in a short time\n
+-Review your stock and mutual fund investments periodically\n
+-Consider the tax implications on returns you earn from your investments\n
+-Keep things simple and avoid complicated investments that you don’t understand\n\n
+In this article, we have learned a lot about investments and the various types of investments. Now, it’s your time to be smart and to generate wealth.</string>
+    <string name="where_to_invest">Since there are so many types of investment vehicles, it is normal for an investor to get overwhelmed. Someone new to investing would not where to invest their money. Making the wrong investment choice can lead to financial losses, which is something that no one wants. This is why you should use the following factors to decide where to invest your money.</string>
+    <string name="stock_market">Stock market is a place where people buy/sell shares of publicly listed companies. It offers a platform to facilitate seamless exchange of shares. In simple terms, if A wants to sell shares of Reliance Industries, the stock market will help him to meet the seller who is willing to buy Reliance Industries. However, it is important to note that a person can trade in the stock market only through a registered intermediary known as a stock broker. The buying and selling of shares take place through electronic medium. We will discuss more about the stock brokers at a later point.\n\n\t
+        The share market is a source for companies to raise funds and for investors to buy part-ownership in growing businesses and grow their wealth. On becoming a shareholder, an investor earns a part of the profits earned by the company by way of dividend. At the same time, the investor also undertakes the risk to bear loses, should the business fail to perform well. Market participants need to get registered with the stock exchange and market regulator Sebi to be able to trade in the stock market.</string>
+
+    <string name="major_stockex.">There are two main stock exchanges in India where majority of the trades take place – Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE). Apart from these two exchanges, there are some other regional stock exchanges like Bangalore Stock Exchange, Madras Stock Exchange etc but these exchanges do not play a meaningful role anymore.</string>
+    <string name="nse">NSE is the leading stock exchange in India where one can buy/sell shares of publicly listed companies. It was established in the year 1992 and is located in Mumbai. NSE has a flagship index named as NIFTY50. The index comprises of the top 50 companies based on its trading volume and market capitalisation.  This index is widely used by investors in India as well as globally as the barometer of the Indian capital markets.</string>
+    <string name="bse">BSE is Asia’s first as well as the oldest stock exchange in India. It was established in 1875 and is located in Mumbai. It has a total of ~5,295 companies listed out of which ~3,972 are available for trading as on August 21, 2017. BSE Sensex is the flagship index of BSE. It measures the performance of the 30 largest, most liquid and financially stable companies across key sectors.</string>
+    <string name="market_participants">There are a lot of individuals and corporate houses who trade in a stock market. Anyone who buys/sells shares in a stock market is termed as a market participant. Some of the categories of market participants are as follows:\n\n
+
+Domestic Retail Participants-These are individuals who transact in the markets.\n
+NRI’s and Overseas Citizen of India (OCI)-These are people of Indian origin who reside outside India.\n
+Domestic Institutions-These are large corporate entities based in India (for example: LIC of India).\n
+Domestic Asset Management Companies (AMC)-The market participants in this category would be mutual fund companies like HDFC AMC, SBI Mutual Fund, DSP Black Rock and many more similar entities.\n
+Foreign Institutional Investors-FIIs are Non-Indian corporate entities such as foreign asset management companies, hedge funds and other investors.</string>
+    <string name="sebi">Securities Exchange Board of India (SEBI) is the regulatory body of the Indian Stock Markets. The main objective of SEBI is to safeguard the interest of retail investors, promote the development of stock exchanges, and regulate the activities of financial intermediaries and investors in the market. SEBI ensures the following:\n\n
+
+The stock exchanges (BSE and NSE), brokers and sub-brokers conduct their business fairly.\n
+Corporate houses should not use markets as a mean to unfairly benefit themselves\n
+Small retail investors’ interest is protected.\n
+Large investors with huge cash should not manipulate markets.</string>
+    <string name="financial_intermediates">From the time an investor places his order to buy shares till the time it is transferred to his Demat account, a number of corporate entities are involved to ensure smooth transaction. These entities are known as financial intermediaries and they work according to the rules and regulations prescribed by SEBI. Some of the financial intermediaries are discussed below:</string>
+    <string name="broker">A stock broker also known as a dealer is a professional individual who buys/sells shares on behalf of its clients. A stock broker is registered as a trading member with the stock exchange and holds a stock broking license. They operate under the guidelines prescribed by SEBI. An individual needs to open trading/DEMAT account to transact in the financial market.</string>
+    <string name="dp_participants">A Depository is a financial intermediary that offers the service of DEMAT account. A DEMAT account will have all the shares that an investor owns in electronic format. In India, there are only two depositaries which offers DEMAT account services – National Securities Depository Limited (NSDL) and Central Depository Services (India) Limited (CDSL). An investor cannot directly go to the depositary to open the DEMAT account. He needs to appoint a Depository Participant (DP). According to SEBI guidelines, banks, financial institutions and members of stock exchanges registered with SEBI can become DPs.</string>
+    <string name="banks">Banks help to transfer funds from a bank account to a trading account. The client needs to categorically mention which bank account has to be linked to the trading account to the stock broker at the time of opening the trading account.</string>
+    <string name="dmat">DEMAT account or dematerialized account allows holding shares in electronic form instead of taking physical possession of certificates. It is mandatory to have a DEMAT account to trade in shares.  DEMAT account holds all the investments an individual makes in shares, exchange traded funds, bonds, government securities, and mutual funds in one place.</string>
+    <string name="trading">A trading account is used to place buy/sell orders in the stock market. One can open their trading account with a stock broker who is registered with SEBI. An order can be placed either through an online or offline mode. In the online mode, one can buy/sell stocks through the trading terminal provided by the broker whereas; in the offline mode, an individual can ask its broker to place an order on his/her behalf.</string>
+    <string name="how_to_demat">Below mentioned are the steps to open DEMAT account in India:\n\n
+
+To open a DEMAT account; an individual has to approach a depository participant (DP), an agent of depository, and fill up an account opening form. The list of DPs is available on the website of depository’s i.e. CDSL and NSDL.\n
+An individual must attach photocopies of KYC documents like identity proof, proof of address along with the account opening form.\n
+The DP will provide the depository participant ID or client ID. All the purchase / sale of shares will be through DEMAT Account</string>
+    <string name="key_takeaways">A stock market is a place where people buy/sell shares or stocks of publicly listed companies.\n\n\t
+NSE and BSE are the two major stock exchanges in India.
+An individual has to mandatorily open a trading account to trade in the stock market.
+There are different market participants like retail investors, domestic institutions and foreign institutional investors
+Indian stock market is governed by SEBI.
+There are different financial intermediaries like stock broker, banks, depository participants etc.
+DEMAT account or dematerialized account allows holding shares in electronic form instead of taking physical possession of certificates.\n\n\t
+The share market is a source for companies to raise funds and for investors to buy part-ownership in growing businesses and grow their wealth. On becoming a shareholder, an investor earns a part of the profits earned by the company by way of dividend. At the same time, the investor also undertakes the risk to bear loses, should the business fail to perform well. Market participants need to get registered with the stock exchange and market regulator Sebi to be able to trade in the stock market.</string>
+    <string name="govt_act">1992: Harshad Mehta – The first “stock market scam” was one which involved both the GOI bond and equity markets in India. Thereafter, manipulation was based on inefficiencies in the settlement system in GOI bond market transactions. Inflation came about in the equity markets and the market index went up by 143% between September 1991 and April 1992 and the amount involved in the crises was Rs 54 billion.\n\n
+
+This law regulates investment advisers. With certain exceptions, this Act requires that firms or sole practitioners compensated for advising others about securities investments must register with the SEC and conform to regulations designed to protect investors. Since the Act was amended in 1996 and 2010, generally only advisers who have at least $100 million of assets under management or advise a registered investment company must register with the Commission.</string>
+
+    <!-- we need to use video ids instead of video link -->
+    <string-array name="video_id_array">
+        <item>CqhpNxI8qYw</item>
+        <item>sasCrpgHDy8</item>
+        <item>iJeh3x09Ya8</item>
+        <item>B5zRaD7B504</item>
+        <item>9qWHzj8k-Uo</item>
+        <item>RjiK45wC924</item>
+        <item>RH3zaLO8H4E</item>
+        <item>o14pyzosjvk</item>
+        <item>5SQrpBQne7A</item>
+        <item>5WJ3r67ORxo</item>
+    </string-array>
+
+    <string-array name="video_title_array">
+        <item>Android Security Lock Demo</item>
+        <item>Android Sectioned RecyclerView Demo</item>
+        <item>Android Home Screen Widgets Demo</item>
+        <item>Android Floating Widget like Facebook Messenger Chat Head Demo</item>
+        <item>Android Google Maps Introduction Demo</item>
+        <item>Android Lollipop Activity Transitions Demo</item>
+        <item>Android Toolbar Animation Using Design Support Library Demo</item>
+        <item>Android Material Advance Tabs Demo</item>
+        <item>Android Drag and Drop Demo</item>
+        <item>Android Fingerprint Authentication Demo</item>
+    </string-array>
+
+    <string-array name="video_duration_array">
+        <item>02:48</item>
+        <item>00:44</item>
+        <item>01:01</item>
+        <item>00:55</item>
+        <item>01:03</item>
+        <item>00:25</item>
+        <item>00:34</item>
+        <item>00:45</item>
+        <item>00:52</item>
+        <item>00:28</item>
+    </string-array>
+</resources>
